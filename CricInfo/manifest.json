@@ -1,0 +1,11 @@
+{
+    "name": "CricExtension",
+    "version": "1.0.0",
+    "description": "Best extension for Cricket lover's around the globe...",
+    "manifest_version": 3,
+    "author": "Nishant Tomer",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "CricExtensionn"
+    }
+}
